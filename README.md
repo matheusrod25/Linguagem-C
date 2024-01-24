@@ -1,2 +1,2 @@
-# Linguagem C - github
+# Linguagem C 
  Códigos em C
