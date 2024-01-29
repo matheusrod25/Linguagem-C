@@ -6,7 +6,7 @@ int main()
      i = fib = fib0 = num = valor_antigo = valor_novo = 0;
      fib1 = 1;
      setlocale(LC_ALL,"");
-     printf("Digite um número inteiro maior ou igual a zero: ");
+     printf("Digite um nÃºmero inteiro maior ou igual a zero: ");
      scanf("%d",&num);
      valor = num;
      while (num >= 0)
@@ -28,7 +28,5 @@ int main()
               fib = valor_antigo + valor_novo; }
          i++;
          num--;  }
-     printf("\nO termo de número %d da sequência de Fibonacci é igual a %d\n",valor,fib);
-
-
+     printf("\nO termo de nÃºmero %d da sequÄ™ncia de Fibonacci Ã© igual a %d\n",valor,fib);
      return 0; }
