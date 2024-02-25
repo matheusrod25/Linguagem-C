@@ -1,2 +1,8 @@
-
-Cap5/5.9.01.c
+.c.save
+.o
+.layout
+.cbp
+.exe
+.depend
+main.o
+.save
